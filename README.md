@@ -1,1 +1,5 @@
-# Mean_Mode_median_Machine_Learning_Intro
+# LinearRegression-2026-10-06
+
+-Mean 
+-Mode
+-Median for every Column that you can do calculations on 
